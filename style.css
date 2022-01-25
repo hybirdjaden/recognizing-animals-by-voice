@@ -1,0 +1,33 @@
+body {
+    font-family: "Comic Sans MS";
+    background-color: cyan;
+}
+.header_div {
+    background-color: lightblue;
+    color: darkblue;
+}
+.header_div p {
+    font-family: 'Italianno', cursive;
+    color: darkblue;
+    letter-spacing: 2px;
+    font-size: 20;
+    font-weight: bolder;
+}
+.main_div button {
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+    font-size: 20px;
+}
+.copyright_footer {
+    position: fixed;
+    color: darkblue;
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background-color: lightskyblue;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(red, green, blue);
+}
